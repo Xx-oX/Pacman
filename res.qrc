@@ -1,0 +1,61 @@
+<RCC>
+    <qresource prefix="/img/2D">
+        <file>res/img/2D/pacman_down_close.png</file>
+        <file>res/img/2D/pacman_down_open.png</file>
+        <file>res/img/2D/pacman_left_close.png</file>
+        <file>res/img/2D/pacman_left_open.png</file>
+        <file>res/img/2D/pacman_right_close.png</file>
+        <file>res/img/2D/pacman_right_open.png</file>
+        <file>res/img/2D/pacman_up_close.png</file>
+        <file>res/img/2D/pacman_up_open.png</file>
+        <file>res/img/2D/coin.png</file>
+        <file>res/img/2D/wall_inside.png</file>
+        <file>res/img/2D/scared_1.png</file>
+        <file>res/img/2D/scared_2.png</file>
+        <file>res/img/2D/power_pellets.png</file>
+    </qresource>
+    <qresource prefix="/oikake">
+        <file>res/img/2D/Akabei/down_1.png</file>
+        <file>res/img/2D/Akabei/down_2.png</file>
+        <file>res/img/2D/Akabei/left_1.png</file>
+        <file>res/img/2D/Akabei/left_2.png</file>
+        <file>res/img/2D/Akabei/right_1.png</file>
+        <file>res/img/2D/Akabei/right_2.png</file>
+        <file>res/img/2D/Akabei/up_1.png</file>
+        <file>res/img/2D/Akabei/up_2.png</file>
+    </qresource>
+    <qresource prefix="/machibuse">
+        <file>res/img/2D/Pinky/down_1.png</file>
+        <file>res/img/2D/Pinky/down_2.png</file>
+        <file>res/img/2D/Pinky/left_1.png</file>
+        <file>res/img/2D/Pinky/left_2.png</file>
+        <file>res/img/2D/Pinky/right_1.png</file>
+        <file>res/img/2D/Pinky/right_2.png</file>
+        <file>res/img/2D/Pinky/up_1.png</file>
+        <file>res/img/2D/Pinky/up_2.png</file>
+    </qresource>
+    <qresource prefix="/kimagure">
+        <file>res/img/2D/Aosuke/down_1.png</file>
+        <file>res/img/2D/Aosuke/down_2.png</file>
+        <file>res/img/2D/Aosuke/left_1.png</file>
+        <file>res/img/2D/Aosuke/left_2.png</file>
+        <file>res/img/2D/Aosuke/right_1.png</file>
+        <file>res/img/2D/Aosuke/right_2.png</file>
+        <file>res/img/2D/Aosuke/up_1.png</file>
+        <file>res/img/2D/Aosuke/up_2.png</file>
+    </qresource>
+    <qresource prefix="/otoboke">
+        <file>res/img/2D/Guzuta/down_1.png</file>
+        <file>res/img/2D/Guzuta/down_2.png</file>
+        <file>res/img/2D/Guzuta/left_1.png</file>
+        <file>res/img/2D/Guzuta/left_2.png</file>
+        <file>res/img/2D/Guzuta/right_1.png</file>
+        <file>res/img/2D/Guzuta/right_2.png</file>
+        <file>res/img/2D/Guzuta/up_1.png</file>
+        <file>res/img/2D/Guzuta/up_2.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>res/img/bg.jpg</file>
+        <file>res/img/bg2.jpg</file>
+    </qresource>
+</RCC>
